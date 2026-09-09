@@ -1,5 +1,6 @@
 # Databases for Backend Engineers: From Persistence to Production Postgres
 
+[Mastering Databases With Postgres](https://www.youtube.com/watch?v=F7Vwp2Xo5Do&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=12&pp=iAQB0gcJCf4LAYcqIYzv)
 A practical, backend-engineer-focused walkthrough of what databases are, why PostgreSQL is usually the right default choice, and how to actually model, migrate, seed, query, index, and secure a real relational schema — built around a project-management-platform example.
 
 ## Key Takeaways

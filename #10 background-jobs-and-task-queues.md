@@ -1,5 +1,5 @@
 # Background Jobs & Task Queues for Backend Engineers
-
+[Background Jobs & Task Queues Video](https://www.youtube.com/watch?v=r-nQsyguU1Y&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=14&pp=iAQB)
 Background jobs let a backend offload non-critical, time-consuming, or externally-dependent work outside the request-response cycle, so APIs stay fast, responsive, and resilient to failures in dependent services.
 
 ## Key Takeaways

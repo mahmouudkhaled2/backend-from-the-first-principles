@@ -1,6 +1,6 @@
 # Understanding Authentication and Authorization: Identity and Permission in Backend Systems
 
-This video traces authentication and authorization from their historical roots to today's modern protocols, covering sessions, JWTs, cookies, stateful vs. stateless authentication, API keys, OAuth 2.0, OpenID Connect, and role-based authorization.
+[Authentication and Authorization](https://www.youtube.com/watch?v=A95rliroC8Q&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=8&pp=iAQB0gcJCf4LAYcqIYzv) This video traces authentication and authorization from their historical roots to today's modern protocols, covering sessions, JWTs, cookies, stateful vs. stateless authentication, API keys, OAuth 2.0, OpenID Connect, and role-based authorization.
 
 ## Key Takeaways
 

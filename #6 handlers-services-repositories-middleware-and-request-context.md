@@ -1,6 +1,6 @@
 # Handlers, Services, Repositories, Middleware, and Request Context: Architecting the Request Lifecycle
 
-This video walks through what happens *inside* a server between receiving an HTTP request and sending a response — covering the layered Handler/Service/Repository pattern, middleware, and request context as three deeply interconnected pieces of backend architecture.
+[Handlers, Services, Repositories, Middleware, and Request Context](https://www.youtube.com/watch?v=hyc-7w3pee8&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=10&pp=iAQB)This video walks through what happens *inside* a server between receiving an HTTP request and sending a response — covering the layered Handler/Service/Repository pattern, middleware, and request context as three deeply interconnected pieces of backend architecture.
 
 ## Key Takeaways
 

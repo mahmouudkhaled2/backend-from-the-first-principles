@@ -1,6 +1,6 @@
 # Understanding HTTP Routing: Mapping Requests to Server Logic
 
-This video explains **routing** — the mechanism servers use to map incoming requests to the correct piece of backend logic — building directly on the HTTP methods and semantics covered in the previous video in the series.
+[HTTP Routing Video](https://www.youtube.com/watch?v=SubuU1iOC2s&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=6&pp=iAQB) This video explains **routing** — the mechanism servers use to map incoming requests to the correct piece of backend logic — building directly on the HTTP methods and semantics covered in the previous video in the series.
 
 ## Key Takeaways
 

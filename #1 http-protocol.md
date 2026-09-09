@@ -1,5 +1,5 @@
 # Understanding the HTTP Protocol: The Backbone of Client-Server Communication
-[https://www.youtube.com/watch?v=a3C1DMswClQ&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=5]
+[HTTP Protocol Video](https://www.youtube.com/watch?v=0Rwb4Xmlcwc&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1](https://www.youtube.com/watch?v=a3C1DMswClQ&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=5))
 This video breaks down **HTTP (HyperText Transfer Protocol)** from first principles, covering everything a backend engineer needs to understand about how browsers and servers exchange data — without diving into any specific programming language or framework.
 
 ## Key Takeaways

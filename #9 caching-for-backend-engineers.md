@@ -1,5 +1,6 @@
 # Caching for Backend Engineers: Why It's Everywhere and How It Actually Works
 
+[Caching Video](https://www.youtube.com/watch?v=estH64OkwxU&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=13&pp=iAQB)
 Caching is the mechanism of storing a fast-access subset of data so that repeated or expensive operations can be served instantly instead of recomputed or refetched every time.
 
 ## Key Takeaways

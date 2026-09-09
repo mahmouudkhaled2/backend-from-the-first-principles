@@ -1,6 +1,6 @@
 # Understanding Validations and Transformations: Guarding the Entry Point to Your API
 
-This video explains **validation** and **transformation** — the discipline of checking and reshaping incoming client data before it ever touches your business logic, and why skipping this step leads to broken systems and poor user experience.
+[Validations and Transformations](https://www.youtube.com/watch?v=qedj_JjjL-U&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=9&pp=iAQB) This video explains **validation** and **transformation** — the discipline of checking and reshaping incoming client data before it ever touches your business logic, and why skipping this step leads to broken systems and poor user experience.
 
 ## Key Takeaways
 

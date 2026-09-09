@@ -1,6 +1,6 @@
 # REST API Design: From Historical Roots to a Consistent, Intuitive Interface
 
-This video traces REST API design back to its historical origins and then walks through, in extensive hands-on detail, how to design a consistent, intuitive REST interface — covering resource naming, HTTP methods, idempotency, pagination, sorting, filtering, and custom actions.
+[REST API Design](https://www.youtube.com/watch?v=RG6q57DwV8Y&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=11&pp=iAQB) This video traces REST API design back to its historical origins and then walks through, in extensive hands-on detail, how to design a consistent, intuitive REST interface — covering resource naming, HTTP methods, idempotency, pagination, sorting, filtering, and custom actions.
 
 ## Key Takeaways
 

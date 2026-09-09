@@ -1,6 +1,6 @@
 # Understanding Serialization and Deserialization: Making Data Cross-Language Friendly
 
-This video explains **serialization** and **deserialization** — the mechanism that lets a JavaScript client and a server written in a completely different language (like Rust) exchange data and actually understand each other.
+[Serialization Vs. Deserialization](https://www.youtube.com/watch?v=vzg90tY3uM0&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=7&pp=iAQB) This video explains **serialization** and **deserialization** — the mechanism that lets a JavaScript client and a server written in a completely different language (like Rust) exchange data and actually understand each other.
 
 ## Key Takeaways
 

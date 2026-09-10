@@ -1,5 +1,6 @@
 # Error Handling & Fault Tolerance: The Backend Engineer's Mindset
 
+[Error Handling & Fault Tolerance Video](https://www.youtube.com/watch?v=8NaM_9aKS24&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=16&pp=iAQB)
 Errors aren't an edge case in backend systems — they're a certainty, and building fault-tolerant applications means shifting from "how do I prevent every error" to "how do I detect, contain, and recover from errors before they cause real damage."
 
 ## Key Takeaways

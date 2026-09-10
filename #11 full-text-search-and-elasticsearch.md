@@ -1,5 +1,6 @@
 # Full-Text Search & Elasticsearch: Why Relational Databases Struggle at Scale
 
+[Full-Text Search & Elasticsearch Video](https://www.youtube.com/watch?v=7_sovzAhRSM&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=15&pp=iAQB)
 Full-text search technologies like Elasticsearch exist to solve a problem plain relational database queries can't scale to: fast, relevant, typo-tolerant search across large volumes of unstructured text.
 
 ## Key Takeaways

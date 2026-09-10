@@ -1,5 +1,6 @@
 # Configuration Management for Backend Applications
 
+[Production-Grade Configration Video](https://www.youtube.com/watch?v=GR9NtirPXyc&list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1&index=17&pp=iAQB)
 Configuration management is the systematic approach to organizing, storing, accessing, and maintaining every setting that controls how a backend application behaves — far broader than just database URLs and secret keys.
 
 ## Key Takeaways
